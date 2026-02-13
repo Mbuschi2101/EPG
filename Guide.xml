@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="HISTORY Channel HD">
-    <display-name lang="de">HISTORY Channel HD</display-name>
+    <display-name lang="de">HISTORY Channel</display-name>
     <icon src="https://www.sky.de/static/img/senderlogos_dark/86_sky_logo_historyhd_b.jpg"/>
   </channel>
   <programme start="20260212233000 +0000" stop="20260213001500 +0000" channel="HISTORY Channel HD">
@@ -34,11 +34,12 @@
   </programme>
   <programme start="20260213010000 +0000" stop="20260213014500 +0000" channel="HISTORY Channel HD">
     <title lang="de">The Proof is Out There - Alien Edition</title>
-    <sub-title lang="de">Außerirdische Technologie</sub-title>
+    <sub-title lang="de">Außerirdische Technologie / UFO Technology</sub-title>
+    <desc lang="de">Werden wir von UFOs ausspioniert? Haben Außerirdische Zugang zu fortschrittlicher Technologie? Tony Harris und seine Expertengruppe untersuchen überzeugende Beweise für überlegene außerirdische Technologie.</desc>
     <date>2024</date>
     <category lang="de">Mystery-Doku</category>
     <country lang="de">USA</country>
-    <episode-num system="xmltv_ns">0..</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
     <rating system="FSK">
       <value>ab 12 Jahren</value>
     </rating>
@@ -143,14 +144,17 @@
   </programme>
   <programme start="20260213070000 +0000" stop="20260213074500 +0000" channel="HISTORY Channel HD">
     <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
-    <sub-title lang="de">Das vergessene Volk von Karahan Tepe</sub-title>
+    <sub-title lang="de">Das vergessene Volk von Karahan Tepe / Mystery of the Lost Civilization</sub-title>
+    <desc lang="de">Die Entdeckung der antiken megalithischen Stätte Karahan Tepe in der Südtürkei stellte die Welt der Archäologie auf den Kopf und brachte technisches Können zum Vorschein, das weit über das hinausging, was man den Menschen von damals zugetraut hätte.</desc>
     <date>2022</date>
     <category lang="de">Mystery-Doku</category>
+    <icon src="https://www.sky.de/static/img/program_guide/20880_sea_l.jpg"/>
     <country lang="de">USA</country>
     <episode-num system="xmltv_ns">14.2.</episode-num>
     <rating system="FSK">
       <value>ab 12 Jahren</value>
     </rating>
+    <review type="text" lang="de">The History Channel / A+E Networks</review>
   </programme>
   <programme start="20260213074500 +0000" stop="20260213083000 +0000" channel="HISTORY Channel HD">
     <title lang="de">Ancient Aliens - Unerklärliche Phänomene</title>
@@ -419,16 +423,19 @@
   <programme start="20260213225500 +0000" stop="20260213235000 +0000" channel="HISTORY Channel HD">
     <title lang="de">Terra X: Die letzten Geheimnisse des Orients</title>
     <sub-title lang="de">Auf den Spuren alter Kulte</sub-title>
+    <desc lang="de">Im Nahen Osten liegt die Wiege der drei großen monotheistischen Weltreligionen. Auch wenn wir diese Region heute mit Krieg und Terror in Verbindung bringen, war und ist sie auch Schauplatz kultureller und religiöser Vielfalt. Faszinierende Schauplätze, die ein Licht auf die Frühgeschichte des Christentums werfen. Was hat es mit den alten Kulten und zum Teil verschwiegenen Religionsgemeinschaften auf sich? Welche Rolle spielen sie für uns in Europa? Antworten auf diese Fragen sucht Gerlach bei hohen Geistlichen, ehrwürdigen Scheichs, alten Freunden und einfachen Gläubigen.</desc>
     <date>2021</date>
     <category lang="de">Geschichtsdoku</category>
+    <icon src="https://www.sky.de/static/img/program_guide/33149_sea_l.jpg"/>
     <country lang="de">D</country>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <rating system="FSK">
       <value>ab 6 Jahren</value>
     </rating>
+    <review type="text" lang="de">The History Channel</review>
   </programme>
   <channel id="Sky Showcase HD">
-    <display-name lang="de">Sky Showcase HD</display-name>
+    <display-name lang="de">Sky Showcase</display-name>
     <icon src="https://www.sky.de/static/img/senderlogos_dark/1019_sky_logo_skyshowcase-hd_tvguide.png"/>
   </channel>
   <programme start="20260212230500 +0000" stop="20260212235000 +0000" channel="Sky Showcase HD">
@@ -473,13 +480,27 @@
   <programme start="20260213001500 +0000" stop="20260213010500 +0000" channel="Sky Showcase HD">
     <title lang="de">Morden im Norden</title>
     <sub-title lang="de">Blitzerkrieg</sub-title>
+    <desc lang="de">Der Wagen demoliert, ein Verkehrspolizist tot und der Chip mit den Fotos aus der Radarkontrolle weg. Ein erster Verdächtiger gibt den Ermittlern ein Tipp: Korrupte Polizisten stecken hinter der Tat.</desc>
+    <credits>
+      <director>Tanja Roitzheim</director>
+      <actor role="Kriminalhauptkommissar Finn Kiesewetter">Sven Martinek</actor>
+      <actor role="Polizeiobermeisterin Nina Weiß">Julia Schäfle</actor>
+      <actor role="Dr. Henning Strahl">Christoph Tomanek</actor>
+      <actor role="Kriminaldirektor Lars Englen">Ingo Naujoks</actor>
+      <actor role="Hilke Zobel">Proschat Madani</actor>
+      <writer>Jan-Hinrik Drevs</writer>
+      <composer>Jens Langbein</composer>
+      <composer>Robert Schulte Hemming</composer>
+    </credits>
     <date>2022</date>
     <category lang="de">Krimiserie</category>
+    <icon src="https://www.sky.de/static/img/program_guide/30452_sea_l.jpg"/>
     <country lang="de">D</country>
     <episode-num system="xmltv_ns">7.12.</episode-num>
     <rating system="FSK">
       <value>ab 12 Jahren</value>
     </rating>
+    <review type="text" lang="de">2022 ARD Werbung und OneGate Media GmbH, Lizenz durch Degeto Film GmbH</review>
   </programme>
   <programme start="20260213010500 +0000" stop="20260213015500 +0000" channel="Sky Showcase HD">
     <title lang="de">Morden im Norden</title>
@@ -509,26 +530,49 @@
   <programme start="20260213015500 +0000" stop="20260213024000 +0000" channel="Sky Showcase HD">
     <title lang="de">SOKO Wien</title>
     <sub-title lang="de">Puzzle</sub-title>
+    <desc lang="de">Im Büro fallen Schüsse, ein Amoklauf? Carl, Penny und Simon sind unbewaffnet, sollen sie einen Eingriff trotzdem wagen? Chefermittlerin Wolf ordnet die Indizien, denn inzwischen geht es um Mord.</desc>
+    <credits>
+      <director>Holger Gimpel</director>
+      <actor role="Major Carl Ribarski">Stefan Jürgens</actor>
+      <actor role="Penny Lanz">Lilian Klebow</actor>
+      <actor role="Simon Steininger">Michael Steinocher</actor>
+      <actor role="Franz Wohlfahrt">Helmut Bohatsch</actor>
+      <actor role="Dr. Franziska Beck">Maria Happel</actor>
+      <writer>Frank Weller</writer>
+    </credits>
     <date>2020</date>
     <category lang="de">Krimiserie</category>
+    <icon src="https://www.sky.de/static/img/program_guide/30885_sea_l.jpg"/>
     <country lang="de">D</country>
     <country lang="de">A</country>
     <episode-num system="xmltv_ns">14.9.</episode-num>
     <rating system="FSK">
       <value>ab 12 Jahren</value>
     </rating>
+    <review type="text" lang="de">Satel Film GmbH / ZDF und ORF</review>
   </programme>
   <programme start="20260213024000 +0000" stop="20260213032000 +0000" channel="Sky Showcase HD">
     <title lang="de">SOKO Wien</title>
     <sub-title lang="de">Das Versprechen</sub-title>
+    <desc lang="de">Die junge Nicole wird unfreiwillig Zeugin eines Mordes und gerät nun selbst ins Visier des Mörders. Da ihr Versteck bald auffliegt, beginnt für sie und die SOKO ein gefährliches Katz- und Mausspiel.</desc>
+    <credits>
+      <director>Holger Gimpel</director>
+      <actor role="Dr. Franziska Beck">Maria Happel</actor>
+      <actor role="Major Carl Ribarski">Stefan Jürgens</actor>
+      <actor role="Simon Steininger">Michael Steinocher</actor>
+      <actor role="Penny Lanz">Lilian Klebow</actor>
+      <actor role="Franz Wohlfahrt">Helmut Bohatsch</actor>
+    </credits>
     <date>2020</date>
     <category lang="de">Krimiserie</category>
+    <icon src="https://www.sky.de/static/img/program_guide/30885_sea_l.jpg"/>
     <country lang="de">D</country>
     <country lang="de">A</country>
     <episode-num system="xmltv_ns">14.10.</episode-num>
     <rating system="FSK">
       <value>ab 12 Jahren</value>
     </rating>
+    <review type="text" lang="de">Satel Film GmbH / ZDF und ORF</review>
   </programme>
   <programme start="20260213032000 +0000" stop="20260213041000 +0000" channel="Sky Showcase HD">
     <title lang="de">WaPo Bodensee</title>
@@ -618,9 +662,16 @@
   </programme>
   <programme start="20260213061500 +0000" stop="20260213070000 +0000" channel="Sky Showcase HD">
     <title lang="de">Taronga Zoo Hautnah</title>
-    <sub-title lang="de">Kamel-Knoten</sub-title>
+    <sub-title lang="de">Kamel-Knoten / Camel Lump</sub-title>
+    <desc lang="de">Eine Verdickung am Ohr von Ras ruft die Ärzte auf den Plan. Nur ist es nicht einfach, ein Kamel mit einer halben Tonne Gewicht zu betäuben. Die anderen kümmern sich um zwei Dingo-Welpen.</desc>
+    <credits>
+      <director>David Grusovin</director>
+      <actor role="Self - Narrator">Virginia Gay</actor>
+      <writer>Mathew Keygan</writer>
+    </credits>
     <date>2023</date>
     <category lang="de">Reality-Serie</category>
+    <icon src="https://www.sky.de/static/img/program_guide/31813_sea_l.jpg"/>
     <country lang="de">AUS</country>
     <country>GB</country>
     <country lang="de">USA</country>
@@ -628,6 +679,7 @@
     <rating system="FSK">
       <value>ab 6 Jahren</value>
     </rating>
+    <review type="text" lang="de">McAvoy Media</review>
   </programme>
   <programme start="20260213070000 +0000" stop="20260213075000 +0000" channel="Sky Showcase HD">
     <title lang="de">WaPo Bodensee</title>
@@ -655,48 +707,97 @@
   <programme start="20260213075000 +0000" stop="20260213084500 +0000" channel="Sky Showcase HD">
     <title lang="de">WaPo Bodensee</title>
     <sub-title lang="de">Alte Liebe</sub-title>
+    <desc lang="de">Ein Bewohner eines Seniorenstifts treibt tot auf dem See. Nele Fehrenbach hält das aktive Liebesleben des Opfers ganz schön auf Trab. Und dann der Verdacht: es könnte ihre Mutter gewesen sein.</desc>
+    <credits>
+      <director>Raoul W. Heimrich</director>
+      <actor role="Nele Fehrenbach">Floriane Daniel</actor>
+      <actor role="Julia Demmler">Wendy Güntensperger</actor>
+      <actor role="Pirmin Spitznagel">Simon Werdelis</actor>
+      <actor role="Andreas Rambach">Ole Puppe</actor>
+      <writer>Axel Hildebrand</writer>
+      <writer>Luci van Org</writer>
+    </credits>
     <date>2018</date>
     <category lang="de">Krimiserie</category>
+    <icon src="https://www.sky.de/static/img/program_guide/27343_sea_l.jpg"/>
     <country lang="de">D</country>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="FSK">
       <value>ab 12 Jahren</value>
     </rating>
+    <review type="text" lang="de">ARD Degeto</review>
   </programme>
   <programme start="20260213084500 +0000" stop="20260213093000 +0000" channel="Sky Showcase HD">
     <title lang="de">SOKO Wien</title>
     <sub-title lang="de">Wien sehen und sterben</sub-title>
+    <desc lang="de">Nach dem zum Abschluss ihrer Städtetour wird Lisa Tomaschek erstochen. Mord durch einen enttäuschten Teilnehmer? Erst als die SOKO hinter ihr Privatleben blickt, kommen sie dem Täter näher.</desc>
+    <credits>
+      <director>Holger Gimpel</director>
+      <actor role="Major Carl Ribarski">Stefan Jürgens</actor>
+      <actor role="Penny Lanz">Lilian Klebow</actor>
+      <actor role="Simon Steininger">Michael Steinocher</actor>
+      <actor role="Franz Wohlfahrt">Helmut Bohatsch</actor>
+      <actor role="Dr. Franziska Beck">Maria Happel</actor>
+      <writer>Martin Muser</writer>
+    </credits>
     <date>2021</date>
     <category lang="de">Krimiserie</category>
+    <icon src="https://www.sky.de/static/img/program_guide/30885_sea_l.jpg"/>
     <country lang="de">D</country>
     <country lang="de">A</country>
     <episode-num system="xmltv_ns">14.11.</episode-num>
     <rating system="FSK">
       <value>ab 12 Jahren</value>
     </rating>
+    <review type="text" lang="de">Satel Film GmbH / ZDF und ORF</review>
   </programme>
   <programme start="20260213093000 +0000" stop="20260213102000 +0000" channel="Sky Showcase HD">
     <title lang="de">SOKO Wien</title>
     <sub-title lang="de">Alte Wunden</sub-title>
+    <desc lang="de">Bei einer Observierung von Ecstasy-Dealern kommt es zum Schusswechsel. Zwei Menschen sterben, darunter ein Mitarbeiter des Drogendezernats. Welches Geheimnis verbarg dieser Mensch?</desc>
+    <credits>
+      <director>Olaf Kreinsen</director>
+      <actor role="Dr. Franziska Beck">Maria Happel</actor>
+      <actor role="Major Carl Ribarski">Stefan Jürgens</actor>
+      <actor role="Franz Wohlfahrt">Helmut Bohatsch</actor>
+      <actor role="Penny Lanz">Lilian Klebow</actor>
+      <actor role="Simon Steininger">Michael Steinocher</actor>
+      <writer>Sascha Bigler</writer>
+    </credits>
     <date>2021</date>
     <category lang="de">Krimiserie</category>
+    <icon src="https://www.sky.de/static/img/program_guide/30885_sea_l.jpg"/>
     <country lang="de">D</country>
     <country lang="de">A</country>
     <episode-num system="xmltv_ns">14.12.</episode-num>
     <rating system="FSK">
       <value>ab 12 Jahren</value>
     </rating>
+    <review type="text" lang="de">Satel Film GmbH / ZDF und ORF</review>
   </programme>
   <programme start="20260213102000 +0000" stop="20260213110500 +0000" channel="Sky Showcase HD">
     <title lang="de">Hours to Kill - Zeitachse des Todes</title>
-    <sub-title lang="de">Kein Schutz vor dem Tod</sub-title>
+    <sub-title lang="de">Kein Schutz vor dem Tod / Death Of An Insurance Man</sub-title>
+    <desc lang="de">Der Versicherungsverkäufer Bob Eidman wird in seinem Büro in einer Kleinstadt in Missouri erschossen. Die Ermittler finden heraus, dass er verschuldet war und ein Doppelleben führte.</desc>
+    <credits>
+      <director>Victor Kushmaniuk</director>
+      <actor role="Self - Narrator">Tish Iceton</actor>
+      <actor role="Bob Eidman">Jack Macure</actor>
+      <actor role="Detective McCarrick">Stan Trachter</actor>
+      <actor role="Cleo Hines">Roshane Roberts</actor>
+      <writer>John Titley</writer>
+      <editor>Cabot McNenly</editor>
+      <editor>Mark Caswell</editor>
+    </credits>
     <date>2021</date>
     <category lang="de">True-Crime-Serie</category>
+    <icon src="https://www.sky.de/static/img/program_guide/33844_sea_l.jpg"/>
     <country lang="de">CDN</country>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="FSK">
       <value>ab 12 Jahren</value>
     </rating>
+    <review type="text" lang="de">2021 CINEFLIX (COUNTDOWN 3) INC.</review>
   </programme>
   <programme start="20260213110500 +0000" stop="20260213115500 +0000" channel="Sky Showcase HD">
     <title lang="de">Hours to Kill - Zeitachse des Todes</title>
@@ -1176,7 +1277,7 @@
     <episode-num system="xmltv_ns">.1124/26.</episode-num>
   </programme>
   <channel id="ATV II">
-    <display-name lang="de">ATV II</display-name>
+    <display-name lang="de">ATV 2</display-name>
     <icon src="https://a2.tvspielfilm.de/images/tv/sender/mini/atv2.png"/>
   </channel>
   <programme start="20260213043000 +0000" stop="20260213052500 +0000" channel="ATV II">
@@ -1354,7 +1455,7 @@ Posy Pinkerton (Christa B. Allen) fehlt es an Selbstvertrauen. Da nützen weder 
     </star-rating>
   </programme>
   <channel id="PULS acht">
-    <display-name lang="de">PULS acht</display-name>
+    <display-name lang="de">PULS 8</display-name>
     <icon src="https://a2.tvspielfilm.de/images/tv/sender/mini/puls8.png"/>
   </channel>
   <programme start="20260213043000 +0000" stop="20260213044500 +0000" channel="PULS acht">
